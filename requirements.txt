@@ -1,0 +1,10 @@
+praw>=7.7
+prawcore>=2.4
+python-dotenv>=1.0
+transformers>=4.43
+torch>=2.3
+openai>=1.30
+pandas>=2.2
+tabulate>=0.9
+tenacity>=8.3
+tqdm>=4.66
